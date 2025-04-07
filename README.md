@@ -8,6 +8,7 @@ Esse projeto foi desenvolvido durante a Imersão Dev da Alura e tem como objetiv
 Transformei o projeto original em um quiz interativo com perguntas relacionadas a HTML, CSS, JavaScript e outros temas que estudamos. A ideia é revisar o conteúdo de forma leve, intuitiva e gamificada.
 
 O jogo apresenta uma pergunta por vez e o usuário deve clicar na alternativa que julgar correta. Ao final, o sistema mostra o número de acertos. Legal, né? 😄
+Nesse link você pode acessar https://codepen.io/Frank-fronMaromba/pen/OPJqNjO e poder jogar , além de testar outros jogos.
 
 🛠️ Tecnologias Utilizadas
 O projeto foi desenvolvido usando as seguintes tecnologias:
